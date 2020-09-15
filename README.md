@@ -1,1 +1,1 @@
-# StudyJavaScriptBasic
+# Study JavaScript Basic Couse
