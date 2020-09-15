@@ -8,7 +8,7 @@
     "curly": true,
     "strict": false,
     "browser" : true,
-    "develop": true,
+    "devel": true,
     "jquery": true,
     "esversion": 6
 }
